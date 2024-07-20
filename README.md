@@ -149,7 +149,7 @@ Response example:
 ### Get user profile
 
 ```curl
-POST /api/users/me
+GET /api/users/me
 ```
 
 Authentication:
